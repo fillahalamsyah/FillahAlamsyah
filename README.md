@@ -1,6 +1,6 @@
 Hi, I’m @FillahAlamsyah. 
 - I’m interested in math animation like manim developed by 3blue1brown and other like LaTeX for writing any documents. 
-- I’m currently learning basic Python, R and LaTeX
+- I’m currently learning Python, C++, R and LaTeX
 
 
 <!---
