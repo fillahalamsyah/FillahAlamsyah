@@ -1,11 +1,12 @@
-### Hi! 👋 I'm Fillah Alamsyah
+# Hi! 👋 I'm Fillah Alamsyah
 
 I'm a programming enthusiast focused on python programming as intermediete data scientist and data analytics.
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FillahAlamsyah&repo=FillahAlamsyah)](https://github.com/FillahAlamsyah/FillahAlamsyah)
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FillahAlamsyah&repo=FillahAlamsyah)](https://github.com/FillahAlamsyah/FillahAlamsyah)
 
 Reference Badge https://dev.to/envoy_/150-badges-for-github-pnk#contents
--->
+<!-- -->
 
 [![GitHub followers](https://img.shields.io/github/followers/FillahAlamsyah?style=social)](https://www.github.com/FillahAlamsyah)
 [![Instagram Badge](https://img.shields.io/badge/-Fillah_Alamsyah-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fillah_alamsyah/)](https://www.instagram.com/fillah_alamsyah/)
@@ -13,7 +14,7 @@ Reference Badge https://dev.to/envoy_/150-badges-for-github-pnk#contents
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/FillahAlamsyah/)](https://www.linkedin.com/in/FillahAlamsyah/)
 
 
-### Github Statistic
+## Github Statistics
 
 <p align="left">
 <a href="https://github.com/FillahAlamsyah">
