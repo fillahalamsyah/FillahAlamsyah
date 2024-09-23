@@ -1,6 +1,7 @@
 # Hi! 👋 I'm Fillah Alamsyah
 
 I'm a programming enthusiast focused on python programming as intermediete data scientist and data analytics.
+I also learn web programming with astro and typescript.
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FillahAlamsyah&repo=FillahAlamsyah)](https://github.com/FillahAlamsyah/FillahAlamsyah)
