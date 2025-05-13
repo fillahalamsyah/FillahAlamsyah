@@ -1,0 +1,10 @@
+# .gitignore for Fillahalamsyah Project
+
+# Ignore VS Code settings directory
+# This prevents IDE-specific configuration files from being tracked in Git
+.vscode/
+
+# Ignore specific files
+# _README2.md - Developer's backup/alternate version of README
+
+_README2.md
