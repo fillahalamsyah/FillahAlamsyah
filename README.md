@@ -56,7 +56,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fillahalamsyah&show_icons=true&locale=en&theme=algolia" alt="fillahalamsyah" /></p>
 
-<img src="https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true" alt="fillahalamsyah's GitHub Stats" />
+![!\[GitHub Stats\](https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true)](https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true)
+
 ---
 
 ## 🛠️ Languages and Tools
