@@ -52,11 +52,13 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fillahalamsyah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fillahalamsyah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fillahalamsyah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fillahalamsyah" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fillahalamsyah&show_icons=true&locale=en&theme=algolia" alt="fillahalamsyah" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fillahalamsyah&show_icons=true&locale=en&theme=algolia" alt="fillahalamsyah" /></p>
 
-![!\[GitHub Stats\](https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true)](https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true" alt="fillahalamsyah's GitHub Stats" />
+</p>
 
 ---
 
