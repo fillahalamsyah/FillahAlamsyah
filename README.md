@@ -56,9 +56,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fillahalamsyah&show_icons=true&locale=en&theme=algolia" alt="fillahalamsyah" /></p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true" alt="fillahalamsyah's GitHub Stats" />
-</p>
+</p> -->
 
 ---
 
