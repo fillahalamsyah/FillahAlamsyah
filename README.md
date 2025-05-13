@@ -19,8 +19,6 @@
     <img src="https://profile-counter.glitch.me/fillahalamsyah/count.svg?" alt="Profile Views" />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fillahalamsyah" alt="fillahalamsyah" /></a> </p>
-
 <!--
 ## 🔭 Current Work & Projects
 
@@ -58,8 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fillahalamsyah&show_icons=true&locale=en&theme=algolia" alt="fillahalamsyah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fillahalamsyah&" alt="fillahalamsyah" /></p>
-
+<img src="https://streak-stats.demolab.com?user=fillahalamsyah&theme=algolia&hide_border=true" alt="fillahalamsyah's GitHub Stats" />
 ---
 
 ## 🛠️ Languages and Tools
